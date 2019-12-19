@@ -1,0 +1,36 @@
+{
+  "vehicles": [
+    "16m5",
+    "2015polstang",
+    "arv10",
+    "ambulance",
+    "dodgesamu",
+    "ghis2",
+    "ghispo2",
+    "gtr",
+    "hcbr500rgn",
+    "japaribus",
+    "polaventa",
+    "polgs350",
+    "rcdtruck",
+    "shelbygt500",
+    "taxi",
+    "nh2r",
+    "aventadors",
+    "x6m",
+    "velar",
+    "G65",
+    "z1000a1",
+    "EVO10",
+    "HONDACIVICTR",
+    "gle63c"
+  ],
+  "peds": [
+    "addonpedname1",
+    "addonpedname2"
+  ],
+  "weapons": [
+    "addonweaponname1",
+    "addonweaponname2"
+  ]
+}

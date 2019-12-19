@@ -1,0 +1,16 @@
+Locales['en'] = {
+  ['not_enough_money']    = 'Vous avez pas assez de liquide',
+  ['truck_belongs']       = 'un camion matricule ~y~%s~s~ appartient maintenant à ~b~you~s~',
+  ['generic_shopitem']    = '$%s',
+  ['truck_dealer']        = 'Concession Camion',
+  ['buy_truck_shop']      = 'voulez-vous acheter %s pour $%s?',
+  ['no']                  = 'non',
+  ['yes']                 = 'oui',
+  ['truck_purchased']     = 'vous avez acheté un camion',
+  ['shop_menu']           = 'presser ~INPUT_CONTEXT~ pour aceder au menu',
+  ['shop_awaiting_model'] = 'le véhicule est actuellement ~g~DOWNLOADING & LOADING~s~ patienter',
+  ['sell_menu']           = 'presser ~INPUT_CONTEXT~ pour vendre votre ~y~%s~s~ pour ~g~$%s~s~',
+  ['license_missing']     = 'vous avez pas de licence commerciale!',
+  ['truck_sold_for']      = 'la ~b~%s~s~ a été ~y~sold~s~ pour ~g~$%s~s~',
+  ['not_yours']           = 'ce véhicule ne vous appartient pas',
+}

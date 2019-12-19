@@ -1,0 +1,6 @@
+s_m_y_sheriff_01:XXXAGENTXXX_SI_TU_TOCUHE_BAN
+Child:TOM
+homer:HOMER
+MickeyMouse:MIKEY
+MargeSimpson:MARGE
+Mariachi01SMM:ANNONYMEFDP

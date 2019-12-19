@@ -1,0 +1,17 @@
+-- is_ped_loaded = false
+
+-- RegisterServerEvent("storespnj:checkCreate")
+-- AddEventHandler("storespnj:checkCreate", function()
+    -- local source = source
+	--if is_ped_loaded == false then
+	--	is_ped_loaded = true
+		-- TriggerClientEvent('ped_bank:createPED',source)
+		-- TriggerClientEvent('ped_police:createPED',source)
+		-- TriggerClientEvent('ped_sadot:createPED',source)
+		-- TriggerClientEvent('ped_shop:createPED',source)
+		-- TriggerClientEvent('ped_shopclothes:createPED',source)
+		-- TriggerClientEvent('ped_shopfleeca:createPED',source)
+		-- TriggerClientEvent('ped_wel_police:createPED',source)
+		--print('test')
+	--end
+-- end)

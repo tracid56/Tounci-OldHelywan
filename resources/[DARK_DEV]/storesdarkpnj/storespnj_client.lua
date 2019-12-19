@@ -1,0 +1,4 @@
+-- Spawn d'un joueur, vérif etat des peds
+-- AddEventHandler("playerSpawned", function()
+	-- TriggerServerEvent("storespnj:checkCreate")
+-- end)
